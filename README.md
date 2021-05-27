@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qfix20
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Go-lang, Vue.js, Rust and more.
-- 💞️ I’m looking to collaborate on mongolos
+- 💞️ I’m looking to collaborate with mongolos
 - 📫 How to reach me? By email
 
 <!---
